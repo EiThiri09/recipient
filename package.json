@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "webpack serve --mode development --port 5050",
-    "validate": "tsc --noEmit --checkJs",
-    "build": "react-scripts build"
+    "validate": "tsc --noEmit --checkJs"
   },
   "dependencies": {
     "lodash-es": "^4.17.21",
